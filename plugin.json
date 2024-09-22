@@ -1,0 +1,15 @@
+{
+  "Guid": "00FAE7DD-6469-4136-B0C6-34E0EBB067E5",
+  "Name": "Subnautica Below Zero",
+  "Description": "Game State integration for Subnautica Below Zero",
+  "Author": "Stanislas Trillard",
+  "Website": "",
+  "Repository": "",
+  "Icon": "Resources/SubnauticaBelowZero_Logo.png",
+  "Version": "1.0.0.0",
+  "Main": "Artemis.Plugins.Games.Modules.SubnauticaBelowZeroModule.dll",
+  "AutoEnableProperties": true,
+  "RequiresAdmin": false,
+  "Platforms": "Windows",
+  "Api": "1.0.0"
+}
